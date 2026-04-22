@@ -1,7 +1,5 @@
 # Discord MCP Server
 
-> **⚠️ SECURITY WARNING**: This project handles Discord bot tokens and server access. Please read our [Security Policy](SECURITY.md) before using or contributing.
-
 A comprehensive Model Context Protocol (MCP) server for Discord API integration, providing powerful Discord bot management capabilities through a standardized interface.
 
 ## Features
